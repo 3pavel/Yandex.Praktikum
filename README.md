@@ -1,3 +1,5 @@
+![alt text](https://irecommend.ru/sites/default/files/product-images/1594818/FWDFQo8aogIbhhuI8bqMQ.png)
+
 # Специалист по Data Science. Яндекс.Практикум
 ## Данный репозиторий содержит проекты, подготовленные в рамках прохождении курса
 __Проекты__
