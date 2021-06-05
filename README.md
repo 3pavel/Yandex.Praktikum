@@ -7,3 +7,4 @@ __Проекты__
 - [Выбор скважины](https://github.com/3pavel/Yandex.Praktikum/tree/main/Выбор%20скважины)
 - [Отток клиентов](https://github.com/3pavel/Yandex.Praktikum/tree/main/Отток%20клиентов)
 - [Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/3pavel/Yandex.Praktikum/tree/main/Предсказание%20коэффициента%20восстановления%20золота%20из%20золотосодержащей%20руды)
+- [Спрос на рейсы авиакомпании](https://github.com/3pavel/Yandex.Praktikum/tree/main/Спрос%20на%20рейсы%20авиакомпании)
