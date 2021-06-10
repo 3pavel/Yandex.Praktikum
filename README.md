@@ -9,4 +9,3 @@ __Проекты__
 - [Предсказание коэффициента восстановления золота из золотосодержащей руды](https://github.com/3pavel/Yandex.Praktikum/tree/main/Предсказание%20коэффициента%20восстановления%20золота%20из%20золотосодержащей%20руды)
 - [Спрос на рейсы авиакомпании](https://github.com/3pavel/Yandex.Praktikum/tree/main/Спрос%20на%20рейсы%20авиакомпании)
 - [Определение возраста по фото CV](https://github.com/3pavel/Yandex.Praktikum/tree/main/CV)
-- [Машинное обучение для текстов](https://github.com/3pavel/Yandex.Praktikum/tree/main/Машинное%20обучение%20для%20текстов)
