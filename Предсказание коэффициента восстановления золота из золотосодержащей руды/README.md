@@ -33,9 +33,7 @@ __Параметры этапов__
 > - air amount — объём воздуха
 > - fluid levels — уровень жидкости
 > - feed size — размер гранул сырья
-
+> - feed rate — скорость подачи
 ---
 
-
 > Навыки и инструменты:  `Pandas`, `sklearn`, `numpy`, `Seaborn`, `Matplotlib`, `math`, `машинное обучение`
-> - feed rate — скорость подачи
